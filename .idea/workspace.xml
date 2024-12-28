@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99fd6a03-43db-4c7b-9b81-b3d5f8c1e8ff" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/advanced_OOP/bank_account.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advanced_OOP/car_design.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +37,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.bank_account.executor": "Run",
+    "Python.car_design.executor": "Run",
     "Python.decorator_running_time.executor": "Run",
     "Python.luxury_watch.executor": "Run",
     "Python.mutifunction_device.executor": "Run",
@@ -80,6 +81,7 @@
       <workItem from="1735216001270" duration="1806000" />
       <workItem from="1735257282138" duration="868000" />
       <workItem from="1735304962532" duration="7599000" />
+      <workItem from="1735388862531" duration="1348000" />
     </task>
     <servers />
   </component>
@@ -89,6 +91,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PCPP_Learning$mutifunction_printer.coverage" NAME="mutifunction_printer Coverage Results" MODIFIED="1735167952112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advanced_OOP" />
     <SUITE FILE_PATH="coverage/PCPP_Learning$decorator_running_time.coverage" NAME="decorator_running_time Coverage Results" MODIFIED="1735217193361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advanced_OOP" />
+    <SUITE FILE_PATH="coverage/PCPP_Learning$car_design.coverage" NAME="car_design Coverage Results" MODIFIED="1735390208454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advanced_OOP" />
     <SUITE FILE_PATH="coverage/PCPP_Learning$luxury_watch.coverage" NAME="luxury_watch Coverage Results" MODIFIED="1735306754025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advanced_OOP" />
     <SUITE FILE_PATH="coverage/PCPP_Learning$mutifunction_device.coverage" NAME="mutifunction_device Coverage Results" MODIFIED="1735310671079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advanced_OOP" />
     <SUITE FILE_PATH="coverage/PCPP_Learning$bank_account.coverage" NAME="bank_account Coverage Results" MODIFIED="1735336904724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advanced_OOP" />
