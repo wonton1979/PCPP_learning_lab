@@ -13,6 +13,7 @@ class TrafficLight(Tk):
         self.window_width = self.winfo_screenwidth()
         self.window_height = self.winfo_screenheight()
         self.geometry(f"200x430+{int(self.window_width/2)-100}+{int(self.window_height/2)-200}")
+        self.resizable(width=False, height=False)
         self.__load_widgets()
         self.phases_index = 1
         self.mainloop()
