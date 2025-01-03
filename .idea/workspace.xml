@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99fd6a03-43db-4c7b-9b81-b3d5f8c1e8ff" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/GUI_Tkinter/simple_calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI_Tkinter/Clicker/clicker_main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI_Tkinter/Clicker/leader_board.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI_Tkinter/Clicker/player_select.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI_Tkinter/Clicker/record.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI_Tkinter/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,11 +43,16 @@
     "Python.bank_account.executor": "Run",
     "Python.candy_warehouse.executor": "Run",
     "Python.car_design.executor": "Run",
+    "Python.catch_me.executor": "Run",
     "Python.clean_legacy_code.executor": "Run",
+    "Python.clicker.executor": "Run",
+    "Python.clicker_main.executor": "Run",
     "Python.decorator_running_time.executor": "Run",
+    "Python.leader_board.executor": "Run",
     "Python.luxury_watch.executor": "Run",
     "Python.mutifunction_device.executor": "Run",
     "Python.mutifunction_printer.executor": "Run",
+    "Python.player_select.executor": "Run",
     "Python.simple_calculator.executor": "Run",
     "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -61,6 +70,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\guany\PycharmProjects\PCPP_Learning\GUI_Tkinter\Clicker" />
       <recent name="C:\Users\guany\PycharmProjects\PCPP_Learning\advanced_OOP" />
     </key>
   </component>
@@ -89,6 +99,11 @@
       <workItem from="1735475746460" duration="6503000" />
       <workItem from="1735566837761" duration="166000" />
       <workItem from="1735740142721" duration="1198000" />
+      <workItem from="1735741473192" duration="19894000" />
+      <workItem from="1735819593587" duration="9437000" />
+      <workItem from="1735833683441" duration="50000" />
+      <workItem from="1735833829813" duration="1920000" />
+      <workItem from="1735835842320" duration="13349000" />
     </task>
     <servers />
   </component>
@@ -96,15 +111,20 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PCPP_Learning$leader_board.coverage" NAME="leader_board Coverage Results" MODIFIED="1735861258072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI_Tkinter/Clicker" />
     <SUITE FILE_PATH="coverage/PCPP_Learning$mutifunction_printer.coverage" NAME="mutifunction_printer Coverage Results" MODIFIED="1735167952112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advanced_OOP" />
-    <SUITE FILE_PATH="coverage/PCPP_Learning$candy_warehouse.coverage" NAME="candy_warehouse Coverage Results" MODIFIED="1735420999051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advanced_OOP" />
     <SUITE FILE_PATH="coverage/PCPP_Learning$clean_legacy_code.coverage" NAME="clean_legacy_code Coverage Results" MODIFIED="1735484854831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advanced_OOP" />
-    <SUITE FILE_PATH="coverage/PCPP_Learning$simple_calculator.coverage" NAME="simple_calculator Coverage Results" MODIFIED="1735741134458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI_Tkinter" />
-    <SUITE FILE_PATH="coverage/PCPP_Learning$test.coverage" NAME="test Coverage Results" MODIFIED="1735481354342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advanced_OOP" />
+    <SUITE FILE_PATH="coverage/PCPP_Learning$clicker.coverage" NAME="clicker Coverage Results" MODIFIED="1735831131116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI_Tkinter/Clicker" />
+    <SUITE FILE_PATH="coverage/PCPP_Learning$test.coverage" NAME="test Coverage Results" MODIFIED="1735829832422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI_Tkinter" />
+    <SUITE FILE_PATH="coverage/PCPP_Learning$catch_me.coverage" NAME="catch_me Coverage Results" MODIFIED="1735771979647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI_Tkinter" />
     <SUITE FILE_PATH="coverage/PCPP_Learning$decorator_running_time.coverage" NAME="decorator_running_time Coverage Results" MODIFIED="1735217193361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advanced_OOP" />
+    <SUITE FILE_PATH="coverage/PCPP_Learning$bank_account.coverage" NAME="bank_account Coverage Results" MODIFIED="1735336904724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advanced_OOP" />
+    <SUITE FILE_PATH="coverage/PCPP_Learning$candy_warehouse.coverage" NAME="candy_warehouse Coverage Results" MODIFIED="1735420999051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advanced_OOP" />
+    <SUITE FILE_PATH="coverage/PCPP_Learning$clicker_main.coverage" NAME="clicker_main Coverage Results" MODIFIED="1735861713384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI_Tkinter/Clicker" />
+    <SUITE FILE_PATH="coverage/PCPP_Learning$simple_calculator.coverage" NAME="simple_calculator Coverage Results" MODIFIED="1735755816584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI_Tkinter" />
+    <SUITE FILE_PATH="coverage/PCPP_Learning$player_select.coverage" NAME="player_select Coverage Results" MODIFIED="1735858304542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI_Tkinter/Clicker" />
     <SUITE FILE_PATH="coverage/PCPP_Learning$car_design.coverage" NAME="car_design Coverage Results" MODIFIED="1735390208454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advanced_OOP" />
     <SUITE FILE_PATH="coverage/PCPP_Learning$luxury_watch.coverage" NAME="luxury_watch Coverage Results" MODIFIED="1735306754025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advanced_OOP" />
     <SUITE FILE_PATH="coverage/PCPP_Learning$mutifunction_device.coverage" NAME="mutifunction_device Coverage Results" MODIFIED="1735310671079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advanced_OOP" />
-    <SUITE FILE_PATH="coverage/PCPP_Learning$bank_account.coverage" NAME="bank_account Coverage Results" MODIFIED="1735336904724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advanced_OOP" />
   </component>
 </project>
